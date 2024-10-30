@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Landuse_Cover___Land_Cover" id="Landuse_Cover___Land_Cover">
+	<SimpleField name="OBJECTID_1" type="int"></SimpleField>
+	<SimpleField name="objectid" type="int"></SimpleField>
+	<SimpleField name="oid_" type="int"></SimpleField>
+	<SimpleField name="folderpath" type="string"></SimpleField>
+	<SimpleField name="symbolid" type="int"></SimpleField>
+	<SimpleField name="altmode" type="int"></SimpleField>
+	<SimpleField name="base" type="int"></SimpleField>
+	<SimpleField name="snippet" type="string"></SimpleField>
+	<SimpleField name="popupinfo" type="string"></SimpleField>
+	<SimpleField name="haslabel" type="int"></SimpleField>
+	<SimpleField name="labelid" type="int"></SimpleField>
+</Schema>
+<Folder><name>Landuse_Cover___Land_Cover</name>
+  <Placemark>
+	<name>Madikwe Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">1</SimpleData>
+		<SimpleData name="objectid">1</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The archetypal safari experience in a non-malarial and less humid area. There’s more open savannah than in the Kruger area where undergrowth can impede viewing. It’s also got the Big Five, but is renowned for the packs of endangered African Wild Dog,</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.2777069995784,-24.7604349999752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addo Elephant National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">2</SimpleData>
+		<SimpleData name="objectid">2</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This 120,000 hectare park was opened to protect the wild elephant population that had been wiped out from most of the Eastern Cape. Even driving yourself you’ve got a good chance to see elephants, but play the percentage game and ask at the gate for ad</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.7457400004008,-33.4441299995997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shamwari Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">3</SimpleData>
+		<SimpleData name="objectid">3</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Shamwari Game Reserve is a good, if more expensive, alternative to Addo Elephant Park. You have a good chance to see the Big Five and the ranger we had was engaging and informative – always a good sign that the place is well run. There’s a wide range</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.0768510000736,-33.4333899998485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greater Saint Lucia Wetland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">4</SimpleData>
+		<SimpleData name="objectid">4</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A fantastic example of conservation at its best, St Lucia Wetland Park is an expanse of varied and un-touched wilderness. Twitchers will love the birds drawn to the unique flora that grows in the wetlands. Beach lovers will appreciate the wide open beach</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5146439998208,-28.1337239997627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Timbavati Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">5</SimpleData>
+		<SimpleData name="objectid">5</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Safari can be very, very expensive and there’s no easier way to save money on a trip to SA than to look a bit further north in Kruger, where many of the locals go. Our favourite reserve is Timbavati, especially Umlani Bushcamp. There are a range of acc</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.3077730001239,-24.3314559998944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northern Kruger</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">6</SimpleData>
+		<SimpleData name="objectid">6</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The Limpopo, or northern, end of Kruger National Park is the most remote and empty area of this massive reserve, largely because it’s less accessible to visitors (both foreign and local). The different rainfall patterns and warmer climate means there a</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.2569580004114,-22.4126919999358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hluhluwe-Imfolozi Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">7</SimpleData>
+		<SimpleData name="objectid">7</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Very few tourists have even heard of it. It makes a very scenic alternative (or addition) to Kruger because of the hilly topography and lush green vegetation (which can get in the way of viewing – winter is the best time to visit). All the big game can</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.9473110002025,-28.2199860000538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hluleka Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">8</SimpleData>
+		<SimpleData name="objectid">8</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The Reserve lies along the beautiful and tranquil Wild Coast. It is made up of 2 magnificent forest reserves, which include Congwane Mtombo forest reserve and Ndabeni Hluleka forest reserve. It offers a range of diverse eco systems from rocky seashores a</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.2934989996791,-31.83356100014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kamberg Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">9</SimpleData>
+		<SimpleData name="objectid">9</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Kamberg nestles in the foothills of the Ukhahlamba Drakensberg Park. Kamberg is a delightful spot in it's own right with three attractive picnic sites near the river and trout dams which provide a relaxing alternative to the scenic attractions of the man</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.6653819999794,-29.389694000078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kariega Private Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">10</SimpleData>
+		<SimpleData name="objectid">10</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This family owned and operated, private game reserve spans nearly 9,000 hectares  incorporating the picturesque Kariega and Bushman's Rivers, offering a unique Big-5 game viewing and a variety of fauna, flora and birdlife in a landscape that incorporates</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.603950999639,-33.5796260004395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swartberg Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">11</SimpleData>
+		<SimpleData name="objectid">11</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A narrow but long wilderness area that forms part of the Cape Fold Mountain Range  just outside of Oudtshoorn. Great for hiking, fynbos (especially in springtime for flower displays), small antelope and some San Rock art.</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.1786499999976,-33.3655209996944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tembe National Elephant Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">12</SimpleData>
+		<SimpleData name="objectid">12</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">At 300 square kilometres in extent,Tembe is the third largest game reserve in KwaZulu-Natal, a proclaimed reserve on the old Ivory Route between Mozambique and the Zulu territory and home not only to a unique elephant population but to a profusion of wil</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.4222629997377,-27.0485769998286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>uKhahlamba – Drakensberg Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">13</SimpleData>
+		<SimpleData name="objectid">13</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This mountain park has an average altitude of 3000m - the highest range south of Kilimanjaro - and spans 150kms over 243 000 ha of land. Rolling high altitude grasslands, the pristine steep-sided river valleys and rocky gorges also contribute to the beau</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.4572719996032,-29.5366960000204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Weenen Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">14</SimpleData>
+		<SimpleData name="objectid">14</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A small protected area where a degraded habit has been rehabilitated to acacia grasslands hosting more than 230 species of birds as well as mammals in the reserve include rhino, giraffe, hyaena, jackal, bushbuck, reedbuck, steenbok and porcupine.</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.9961520001148,-28.8345410000671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Coast Fossil Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">15</SimpleData>
+		<SimpleData name="objectid">15</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Exceptionally well-preserved remains of fossil fauna that date to circa 5.2 million years ago were uncovered by phosphate mining operations. The fossils include bones of over 200 different animal species. This represents possibly the greatest diversity o</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.1138589995932,-32.9553790004405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilderness National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">16</SimpleData>
+		<SimpleData name="objectid">16</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A lovely national park with a fascinating combination of rivers, lakes, estuaries and beaches, unfolding against the backdrop or lush forests and imposing mountains. During spring, the area is beautifully blanketed by a kaleidoscope of colourful blossoms</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.6080390000998,-33.990755000243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Agulhas National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">17</SimpleData>
+		<SimpleData name="objectid">17</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The most southerly point in Africa, marked by an unimpressive cairn, and the meeting place of the Indian and Atlantic Oceans, but make time to explore along the coast along the dirt track to some sheltered coves, rock pools and quiet beaches. The Agulhus</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.7948849998429,-34.7316739999551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Augrabies Falls National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">18</SimpleData>
+		<SimpleData name="objectid">18</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The Khoi people called it ‘Aukoerebis’, or place of Great Noise, as this powerful flow of the Orange River is unleashed from rocky surroundings over the 56m  abyss of the 18km long Orange River Gorge. Ramblers with limited time can take the very easy</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.1164350001752,-28.550157999592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bontebok National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">19</SimpleData>
+		<SimpleData name="objectid">19</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This Reserve was established at the foot of the Langeberg Mountains in order to protect the Bontebok from extinction. It also contains indigenous plant life found nowhere else in the world.  Thanks to the conservation efforts of Bontebok National Park, t</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.4679180004154,-34.0685660002207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Camdeboo National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">20</SimpleData>
+		<SimpleData name="objectid">20</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A showcase of the unique landscape and ecosystem of the Karoo, not to mention awesome scenic beauty. The Valley of Desolation is a famous viewpoint where erosion of the softer sedimentary beds has left dolerite pillars which rise to heights of 90 – 120</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.50050399956,-32.2218790002157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garden Route National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">21</SimpleData>
+		<SimpleData name="objectid">21</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">It is the amalgamation of a couple of Parks -Tsitsikamma, Wilderness etc, in probably one of the most beautiful areas in the country,and as parks go, it has a lot going for it: the largest continuous forest in the country (including fantastic indigenous</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.4537510003084,-33.8339200001079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tsitsikamma National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">22</SimpleData>
+		<SimpleData name="objectid">22</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Tsitsikamma is a Khoisan word meaning, “place of much water” quite apt since the spectacular scenery includes the Indian Ocean breakers, pounding rocky shores beneath 180 m high cliffs, ever-green forests and fynbos (proteas and heath) rolling down t</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.8983110003524,-34.0227509999586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Knysna Lake Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">23</SimpleData>
+		<SimpleData name="objectid">23</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A tidal lagoon and open estuary reserve (protecting the endangered Knysna Seahorse amongst other marine life) encompassing the Knysna Lagoon and surrounds. The nearby forests provide ample opportunity for leisurely walks or picnics, hikes as well as biki</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.045368000333,-34.0564990004285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golden Gate Highlands National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">24</SimpleData>
+		<SimpleData name="objectid">24</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This park in the rolling foothills of the Maluti Mountains derives its name from the brilliant shades of gold cast by the sun on the park's sandstone cliffs. 11 600 hectares of unique highland habitat, provides a home to a variety of mammals and birds. V</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.6498139999162,-28.49719999998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karoo National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">25</SimpleData>
+		<SimpleData name="objectid">25</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The 70 000 ha park in the harsh, desert like Great Karoo area, has a wide variety of endemic wildlife - many species of which have been relocated to their former ranges - such as black rhino and buffalo, as well as the quagga, which became extinct in 188</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.2860900002534,-32.2470600004186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kgalagadi Transfrontier Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">26</SimpleData>
+		<SimpleData name="objectid">26</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The park within the Kalahari Desert comprises an area of over 3,6 million ha between Namibia, Botswana and South Africa (so bring your passport), which is one of very few conservation areas of this magnitude left in the world. Red sand dunes, sparse vege</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.9241489999764,-25.2513999996103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kruger National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">27</SimpleData>
+		<SimpleData name="objectid">27</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">With its origins as a nature reserve stretching back to 1898, Kruger has long been synonymous with African big five safari. It is a truly enormous trans frontier Park – more than 35,000 square kilometres - and you can tackle it in many ways: from self-</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.4456179995711,-23.8214239996178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mapungubwe National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">28</SimpleData>
+		<SimpleData name="objectid">28</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">World Heritage site around Mapungubwe Hill of an ancient Afrocan state (between AD 900 and 1300), which at its height was the largest kingdom in sub-Saharan Africa, extending over an area of about 30 000 sq kilometres on either side of Limpopo and Shashe</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.2088300000045,-22.2544479995755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marakele National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">29</SimpleData>
+		<SimpleData name="objectid">29</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Meaning &quot;place of sanctuary'', it is  characterised by the contrasting majestic mountain landscapes, grass-clad hills and deep valleys of the Waterberg Mountains. Home to most of the African Big game species, it is also a birder's haven and a good place</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.5965400003208,-24.4192109997878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mokala National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">30</SimpleData>
+		<SimpleData name="objectid">30</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Nestled in isolated dolerite hills, Mokala's landscape boasts a variety of koppieveld (hills) and large open plains. Setswana for Camel Thorn,  one of the major tree species of the desert regions of Southern Africa which is an incredible resource to both</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.3579129997852,-29.1424699999905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mountain Zebra National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">31</SimpleData>
+		<SimpleData name="objectid">31</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The craggy heights of the park's Bankberg Mountains embrace rolling plains and deep valleys, and has become an entrancing preserve for the Cape mountain zebra, saved from extinction here. These zebra differ by having narrower stripes, absence of shadow s</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.4496620002012,-32.1925660001208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Namaqua National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">32</SimpleData>
+		<SimpleData name="objectid">32</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">During early August and September, seemingly overnight, the dusty valleys of Namaqualand are transformed into a wonderland, literally carpeted with wildflowers. With its winter rainfall, Namaqualand is home to the richest bulb flora of any arid region in</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.5268469998892,-30.0231619999263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Table Mountain National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">33</SimpleData>
+		<SimpleData name="objectid">33</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">One of the oldest mountains on the planet, six times older than the Himalayas and five times older than the Rockies, Table Mountain is estimated to be 360 million years old. The reserve encompasses the incredibly scenic Peninsula mountain chain stretchin</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.4218060003467,-34.2217680000931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Richtersveld National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">34</SimpleData>
+		<SimpleData name="objectid">34</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This is a rugged, desolate and in parts hauntingly beautiful ‘mountain desert’ set in a great loop of the Orange River. A place of deep canyons, jagged mountain ranges, landscapes made vivid by the unusual colours of the rocks and soils, of extremely</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9830860000189,-29.1744289997985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tankwa Karoo National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">35</SimpleData>
+		<SimpleData name="objectid">35</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The Park protects one of the most starkly beautiful tracts of the Tankwa Karoo and is well worth visiting for several reasons, among them its koppie-studded, moon-like landscape, diversity of succulent plants and fine Karoo birding, as well as the fact t</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.9973240004023,-32.30033500026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ithala Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">36</SimpleData>
+		<SimpleData name="objectid">36</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Nestled in the picturesque Ngotshe Mountains, it has four of the Big Five and other African wildlife in areas of scenic beauty. Ithala offers spectacular geological diversity with some rock formations dating back 3 000 million years and the area was occu</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.3312879999413,-27.5159450003615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>uMkhuze Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">37</SimpleData>
+		<SimpleData name="objectid">37</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Part of the Greater St Lucia Wetland Reserve, this reserve differs from others in the vicinity in that it is flat with grasslands, fossil pans, wetlands and sand dunes. Attractions include game-viewing, birdwatching and an exciting bushveld trail as well</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.243500000125,-27.6519050001156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ndumo Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">38</SimpleData>
+		<SimpleData name="objectid">38</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">On the border to Mozambique it is the remotest nature reserve in KwaZulu-Natal. The rivers Usutho in the north and Pongola in the east provide widespread wetland areas, lakes and pans, picturesquely lined by fig trees and the greenish-yellow fever trees,</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.2767310001356,-26.8884580002365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amatikulu Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">39</SimpleData>
+		<SimpleData name="objectid">39</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This small Reserve is situated at the confluence of the Matikulu and Nyoni rivers  and occupies a narrow strip along the coast reaching a maximum width of 3 kms and a length of about 17 kms. Originally serving as a leper colony until the 1970's, it has m</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.6044039997448,-29.1187240003123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cape Vidal</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">40</SimpleData>
+		<SimpleData name="objectid">40</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The coastal resort is set in a sheltered bay that features a number of shallow pools and rock ledges, which make for excellent snorkeling. Miles of pristine beaches are perfect for walking, swimming and sunbathing while self-guided trails make for intere</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.5572699996109,-28.1239800000769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kosi Bay Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">41</SimpleData>
+		<SimpleData name="objectid">41</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The reserve surrounds the unique and beautiful Kosi Bay lake system.This system consists of four lakes and a series of inter connecting channels which eventually drain via a sandy estuary into the Indian ocean. It is home to a large variety of birds and</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.8310110003574,-26.9236000002398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maphelane Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">42</SimpleData>
+		<SimpleData name="objectid">42</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The southernmost reserve within the Greater St Lucia Wetlands Park, it is situated on the south bank of the Umfolozi River where it enters the sea, opposite the little village of St Lucia. The reserve is an enchanting one offering splendid walks through</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.4212420003181,-28.4006570004202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oribi Gorge Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">43</SimpleData>
+		<SimpleData name="objectid">43</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">High sandstone cliffs dominate this 24km long gorge carved out by the Umzimkulwana River. A wonderfully scenic area which boasts cliffs and forests, rivers, rapids and ravines and spectacular hiking trails and picnic sites. Wildlife in the Oribi Gorge co</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.2916519997401,-30.6896400003857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sodwana Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">44</SimpleData>
+		<SimpleData name="objectid">44</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Sodwana Bay with its many exciting coral reefs and outstanding climate, is renowned for its sport fishing, scuba diving and snorkeling. The reserve lies adjacent to Africa’s southern-most coral reefs with a great diversity of underwater seascapes and m</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.6616520000398,-27.5422920003755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cathedral Peak Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">45</SimpleData>
+		<SimpleData name="objectid">45</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The scenery of this area is dominated by the massive Cathedral range of free standing peaks, also known as the Ridge of the Horns. The magnificent Didima Valley contains many examples of San Rock art, but this is a hikers paradise offering routes that ra</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.2088300000045,-28.9632859998489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Giants Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">46</SimpleData>
+		<SimpleData name="objectid">46</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A host of activities can be enjoyed at the Giant Castle Game Reserve, but mostly the area is renowned for its splendid hiking and breathtaking views. Situated on a gassy plateau among the deep valleys running down from the face of the High Drakensberg, i</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>29.5569600003038,-29.2186199998131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Royal Natal National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">47</SimpleData>
+		<SimpleData name="objectid">47</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The main feature of this reserve is the world famous Drakensberg Amphitheatre, a rock wall 5km long and 500 metres high. Standing above the rock face is Mont-aux-Sources peak where the Orange River starts its incredible journey west across South Africa t</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.9645099998367,-28.6911149995576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blyde River Canyon</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">48</SimpleData>
+		<SimpleData name="objectid">48</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Incorporating the third largest canyon in the world and impressive lush scenery,  the reserve covers 29 000 hectares stretching from the misty highlands down to the hotter and drier lowveld at the Blyde Dam. The Blyde River's winding path offers more and</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.8059220003001,-24.5639859995542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilansberg National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">49</SimpleData>
+		<SimpleData name="objectid">49</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Set in the crater of a long extinct volcano, the Park is in fact the fourth largest park in South Africa and covers an area of 55 000 hectare. Over time, wind and water have carved a spectacular landscape with rocky outcrops, open grasslands, wooded vall</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>27.0322040004143,-25.2293239996029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sabi Sabi Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">50</SimpleData>
+		<SimpleData name="objectid">50</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This is a luxury, specialised safari experience within the Kruger Park. Day and night safaris in open Land Rovers, led by highly trained Game Rangers and qualified Trackers, follow the animals on and off-road, deep into the heart of the wild African Bush</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.5135960002552,-24.9318990002386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sabie Sand Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">51</SimpleData>
+		<SimpleData name="objectid">51</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This is the oldest of all the private reserves in South Africa and has only ever been a wilderness area. The Sand River flows through the reserve for 50km from north west to south east whilst the Sabie River flows on the southern boundary. The sustenance</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.4909360002962,-24.7886050004204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thorny Bush Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">52</SimpleData>
+		<SimpleData name="objectid">52</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Adjacent to and incorporated into the Greater Kruger National Park lies 10 000 hectares of pristine African bushveld, which is the 'Thornybush Game Reserve' with an abundance of birdlife and wildlife species including the 'Big 5'. Explore the African bus</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.1819460000079,-24.4021360001762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grootbos Private Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">53</SimpleData>
+		<SimpleData name="objectid">53</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">This relaxing and beautiful place overlooks Walker Bay and is surrounded by indigenous Fynbos (shrubs) and forest clad hills with the largest Milkwood Forests in the world. The beaches are lapped by crystal clear waters frequented by Southern Right Whale</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.4214249996641,-34.5424799995523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cederberg Wilderness Area</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">54</SimpleData>
+		<SimpleData name="objectid">54</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Encompassing some 71 000ha of rugged, mountainous terrain, it is renowned for its spectacular landscapes and rock formations, as well as its namesake, the increasingly rare Clanwilliam cedar tree.There are hundreds of rocky overhangs and caves with fine</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>19.1165539995675,-32.3326890002971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>De Hoop Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">55</SimpleData>
+		<SimpleData name="objectid">55</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">De Hoop is the wilderness highlight of the southern Western Cape. You can do day visits or chose form a series of excellent overnight hikes (The Whale Trail is the most popular, and booked up). Dramatic coastline is framed by massive white sand dunes and</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.5452920000258,-34.4222040000145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mkhaya Game Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">56</SimpleData>
+		<SimpleData name="objectid">56</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A small game reserve in the south east corner of Swaziland. Originally set up to preserve the rare pure Nguni cattle, it also hosts other endangered species such as black rhino, roan &amp; sable antelope, tsessebe, white rhino, elephant and other locally end</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.7264560002442,-26.6143129997451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mlilwane Wildlife Sanctuary</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">57</SimpleData>
+		<SimpleData name="objectid">57</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">The Sanctuary covers 4,560 hectares and comprises of a southern and northern section in the Ezulweni Valley. The southern section is predominately open grassland plains, stretching up onto the striking Nyonyane Mountain with its exposed granite peak know</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.155853000016,-26.4767190001817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Featherbed Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">58</SimpleData>
+		<SimpleData name="objectid">58</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A wilderness reserve on the east side of the Knysna Lagoon, access by boat trips from Knysna's Waterfront. Good for short nature walks.</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.0567409995975,-34.0801930004066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Coast National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">59</SimpleData>
+		<SimpleData name="objectid">59</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Thousands of seabirds roost on sheltered islands, pristine golden beaches stretch endlessly into the early morning mist and brooding salt marshes are home to vast concentrations of migrant waders from the northern hemisphere. During the spring the strand</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>18.1665799999671,-33.1754910003094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marloth Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">60</SimpleData>
+		<SimpleData name="objectid">60</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">A nature reserve just outside of Swellendam with scenic views  of the Langeberg Mountains. Great for a range of walks.</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.3902820004141,-33.9698440000005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dhlinza Forest Nature Reserve</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">61</SimpleData>
+		<SimpleData name="objectid">61</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo">Hike along lofty board-walks in indigenous mist-belt forest at the height of the birds.</SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.451024999804,-28.8957099997166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark 62</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">62</SimpleData>
+		<SimpleData name="objectid">62</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo"></SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.3242190004066,-30.4486740002049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Placemark 63</name>
+	<ExtendedData><SchemaData schemaUrl="#Landuse_Cover___Land_Cover">
+		<SimpleData name="OBJECTID_1">63</SimpleData>
+		<SimpleData name="objectid">63</SimpleData>
+		<SimpleData name="oid_">0</SimpleData>
+		<SimpleData name="folderpath">Game parks, nature reserves &amp; safaris/Untitled layer</SimpleData>
+		<SimpleData name="symbolid">0</SimpleData>
+		<SimpleData name="altmode">-1</SimpleData>
+		<SimpleData name="base">0</SimpleData>
+		<SimpleData name="snippet"></SimpleData>
+		<SimpleData name="popupinfo"></SimpleData>
+		<SimpleData name="haslabel">-1</SimpleData>
+		<SimpleData name="labelid">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.772461000275,-33.5047590004275</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
